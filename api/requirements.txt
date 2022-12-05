@@ -1,0 +1,5 @@
+flask
+datetime 
+uuid
+flask_sqlalchemy 
+flask_jwt_extended
